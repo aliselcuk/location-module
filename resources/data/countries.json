@@ -1,0 +1,1922 @@
+{
+    "AD": {
+        "code": "AD",
+        "name": "Andorra",
+        "iso_code": "AND",
+        "state": true,
+        "zip": false,
+        "dialing_code": "376"
+    },
+    "AE": {
+        "code": "AE",
+        "name": "United Arab Emirates",
+        "iso_code": "ARE",
+        "state": true,
+        "zip": false,
+        "dialing_code": "971"
+    },
+    "AF": {
+        "code": "AF",
+        "name": "Afghanistan",
+        "iso_code": "AFG",
+        "state": false,
+        "zip": false,
+        "dialing_code": "93"
+    },
+    "AG": {
+        "code": "AG",
+        "name": "Antigua and Barbuda",
+        "iso_code": "ATG",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "AI": {
+        "code": "AI",
+        "name": "Anguilla",
+        "iso_code": "AIA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "AL": {
+        "code": "AL",
+        "name": "Albania",
+        "iso_code": "ALB",
+        "state": true,
+        "zip": true,
+        "dialing_code": "355"
+    },
+    "AM": {
+        "code": "AM",
+        "name": "Armenia",
+        "iso_code": "ARM",
+        "state": true,
+        "zip": true,
+        "dialing_code": "374"
+    },
+    "AN": {
+        "code": "AN",
+        "name": "Netherland Antilles",
+        "iso_code": "ANT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "599"
+    },
+    "AO": {
+        "code": "AO",
+        "name": "Angola",
+        "iso_code": "AGO",
+        "state": false,
+        "zip": false,
+        "dialing_code": "244"
+    },
+    "AR": {
+        "code": "AR",
+        "name": "Argentina",
+        "iso_code": "ARG",
+        "state": false,
+        "zip": true,
+        "dialing_code": "54"
+    },
+    "AS": {
+        "code": "AS",
+        "name": "American Samoa",
+        "iso_code": "ASM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "AT": {
+        "code": "AT",
+        "name": "Austria",
+        "iso_code": "AUT",
+        "state": true,
+        "zip": true,
+        "dialing_code": "43"
+    },
+    "AU": {
+        "code": "AU",
+        "name": "Australia",
+        "iso_code": "AUS",
+        "state": true,
+        "zip": true,
+        "dialing_code": "61"
+    },
+    "AW": {
+        "code": "AW",
+        "name": "Aruba",
+        "iso_code": "ABW",
+        "state": false,
+        "zip": false,
+        "dialing_code": "297"
+    },
+    "AZ": {
+        "code": "AZ",
+        "name": "Azerbaijan",
+        "iso_code": "AZE",
+        "state": true,
+        "zip": true,
+        "dialing_code": "994"
+    },
+    "BA": {
+        "code": "BA",
+        "name": "Bosnia and Herzegovina",
+        "iso_code": "BIH",
+        "state": true,
+        "zip": true,
+        "dialing_code": "387"
+    },
+    "BB": {
+        "code": "BB",
+        "name": "Barbados",
+        "iso_code": "BRB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "BD": {
+        "code": "BD",
+        "name": "Bangladesh",
+        "iso_code": "BGD",
+        "state": true,
+        "zip": true,
+        "dialing_code": "880"
+    },
+    "BE": {
+        "code": "BE",
+        "name": "Belgium",
+        "iso_code": "BEL",
+        "state": true,
+        "zip": true,
+        "dialing_code": "32"
+    },
+    "BF": {
+        "code": "BF",
+        "name": "Burkina Faso",
+        "iso_code": "BFA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "226"
+    },
+    "BG": {
+        "code": "BG",
+        "name": "Bulgaria",
+        "iso_code": "BGR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "359"
+    },
+    "BH": {
+        "code": "BH",
+        "name": "Bahrain",
+        "iso_code": "BHR",
+        "state": true,
+        "zip": false,
+        "dialing_code": "973"
+    },
+    "BI": {
+        "code": "BI",
+        "name": "Burundi",
+        "iso_code": "BDI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "257"
+    },
+    "BJ": {
+        "code": "BJ",
+        "name": "Benin",
+        "iso_code": "BEN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "229"
+    },
+    "BM": {
+        "code": "BM",
+        "name": "Bermuda",
+        "iso_code": "BMU",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "BN": {
+        "code": "BN",
+        "name": "Brunei",
+        "iso_code": "BRN",
+        "state": false,
+        "zip": true,
+        "dialing_code": "673"
+    },
+    "BO": {
+        "code": "BO",
+        "name": "Bolivia",
+        "iso_code": "BOL",
+        "state": true,
+        "zip": false,
+        "dialing_code": "591"
+    },
+    "BR": {
+        "code": "BR",
+        "name": "Brazil",
+        "iso_code": "BRA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "55"
+    },
+    "BS": {
+        "code": "BS",
+        "name": "Bahamas",
+        "iso_code": "BHS",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "BT": {
+        "code": "BT",
+        "name": "Bhutan",
+        "iso_code": "BTN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "975"
+    },
+    "BW": {
+        "code": "BW",
+        "name": "Botswana",
+        "iso_code": "BWA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "267"
+    },
+    "BY": {
+        "code": "BY",
+        "name": "Belarus",
+        "iso_code": "BLR",
+        "state": false,
+        "zip": true,
+        "dialing_code": "375"
+    },
+    "BZ": {
+        "code": "BZ",
+        "name": "Belize",
+        "iso_code": "BLZ",
+        "state": false,
+        "zip": false,
+        "dialing_code": "501"
+    },
+    "CA": {
+        "code": "CA",
+        "name": "Canada",
+        "iso_code": "CAN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "CC": {
+        "code": "CC",
+        "name": "Cocos Keeling IS",
+        "iso_code": "CCK",
+        "state": false,
+        "zip": false,
+        "dialing_code": "61"
+    },
+    "CD": {
+        "code": "CD",
+        "name": "Dem Republic of the Congo",
+        "iso_code": "COD",
+        "state": false,
+        "zip": false,
+        "dialing_code": "243"
+    },
+    "CF": {
+        "code": "CF",
+        "name": "Central African Republic",
+        "iso_code": "CAF",
+        "state": false,
+        "zip": false,
+        "dialing_code": "236"
+    },
+    "CG": {
+        "code": "CG",
+        "name": "Congo",
+        "iso_code": "COG",
+        "state": false,
+        "zip": false,
+        "dialing_code": "242"
+    },
+    "CH": {
+        "code": "CH",
+        "name": "Switzerland",
+        "iso_code": "CHE",
+        "state": true,
+        "zip": true,
+        "dialing_code": "41"
+    },
+    "CI": {
+        "code": "CI",
+        "name": "Ivory Coast",
+        "iso_code": "CIV",
+        "state": false,
+        "zip": false,
+        "dialing_code": "225"
+    },
+    "CK": {
+        "code": "CK",
+        "name": "Cook IS",
+        "iso_code": "COK",
+        "state": false,
+        "zip": false,
+        "dialing_code": "682"
+    },
+    "CL": {
+        "code": "CL",
+        "name": "Chile",
+        "iso_code": "CHL",
+        "state": true,
+        "zip": false,
+        "dialing_code": "56"
+    },
+    "CM": {
+        "code": "CM",
+        "name": "Cameroon",
+        "iso_code": "CMR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "237"
+    },
+    "CN": {
+        "code": "CN",
+        "name": "China",
+        "iso_code": "CHN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "86"
+    },
+    "CO": {
+        "code": "CO",
+        "name": "Colombia",
+        "iso_code": "COL",
+        "state": true,
+        "zip": false,
+        "dialing_code": "57"
+    },
+    "CR": {
+        "code": "CR",
+        "name": "Costa Rica",
+        "iso_code": "CRI",
+        "state": false,
+        "zip": true,
+        "dialing_code": "506"
+    },
+    "CU": {
+        "code": "CU",
+        "name": "Cuba",
+        "iso_code": "CUB",
+        "state": true,
+        "zip": true,
+        "dialing_code": "53"
+    },
+    "CV": {
+        "code": "CV",
+        "name": "Cape Verde",
+        "iso_code": "CPV",
+        "state": true,
+        "zip": true,
+        "dialing_code": "238"
+    },
+    "CX": {
+        "code": "CX",
+        "name": "Christmas IS",
+        "iso_code": "CXR",
+        "state": false,
+        "zip": true,
+        "dialing_code": "61"
+    },
+    "CY": {
+        "code": "CY",
+        "name": "Cyprus",
+        "iso_code": "CYP",
+        "state": true,
+        "zip": true,
+        "dialing_code": "357"
+    },
+    "CZ": {
+        "code": "CZ",
+        "name": "Czech Republic",
+        "iso_code": "CZE",
+        "state": true,
+        "zip": true,
+        "dialing_code": "420"
+    },
+    "DE": {
+        "code": "DE",
+        "name": "Germany",
+        "iso_code": "DEU",
+        "state": false,
+        "zip": true,
+        "dialing_code": "49"
+    },
+    "DJ": {
+        "code": "DJ",
+        "name": "Djibouti",
+        "iso_code": "DJI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "253"
+    },
+    "DK": {
+        "code": "DK",
+        "name": "Denmark",
+        "iso_code": "DNK",
+        "state": true,
+        "zip": true,
+        "dialing_code": "45"
+    },
+    "DM": {
+        "code": "DM",
+        "name": "Dominica",
+        "iso_code": "DMA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "DO": {
+        "code": "DO",
+        "name": "Dominican Republic",
+        "iso_code": "DOM",
+        "state": true,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "DZ": {
+        "code": "DZ",
+        "name": "Algeria",
+        "iso_code": "DZA",
+        "state": true,
+        "zip": false,
+        "dialing_code": "213"
+    },
+    "EC": {
+        "code": "EC",
+        "name": "Ecuador",
+        "iso_code": "ECU",
+        "state": true,
+        "zip": true,
+        "dialing_code": "593"
+    },
+    "EE": {
+        "code": "EE",
+        "name": "Estonia",
+        "iso_code": "EST",
+        "state": true,
+        "zip": true,
+        "dialing_code": "372"
+    },
+    "EG": {
+        "code": "EG",
+        "name": "Egypt",
+        "iso_code": "EGY",
+        "state": false,
+        "zip": false,
+        "dialing_code": "20"
+    },
+    "EH": {
+        "code": "EH",
+        "name": "Western Sahara",
+        "iso_code": "ESH",
+        "state": false,
+        "zip": false,
+        "dialing_code": "212"
+    },
+    "ER": {
+        "code": "ER",
+        "name": "Eritrea",
+        "iso_code": "ERI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "291"
+    },
+    "ES": {
+        "code": "ES",
+        "name": "Spain",
+        "iso_code": "ESP",
+        "state": true,
+        "zip": true,
+        "dialing_code": "34"
+    },
+    "ET": {
+        "code": "ET",
+        "name": "Ethiopia",
+        "iso_code": "ETH",
+        "state": false,
+        "zip": false,
+        "dialing_code": "251"
+    },
+    "FI": {
+        "code": "FI",
+        "name": "Finland",
+        "iso_code": "FIN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "358"
+    },
+    "FJ": {
+        "code": "FJ",
+        "name": "Fiji",
+        "iso_code": "FJI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "679"
+    },
+    "FK": {
+        "code": "FK",
+        "name": "Falkland IS",
+        "iso_code": "FLK",
+        "state": false,
+        "zip": false,
+        "dialing_code": "500"
+    },
+    "FM": {
+        "code": "FM",
+        "name": "Micronesia",
+        "iso_code": "FSM",
+        "state": true,
+        "zip": false,
+        "dialing_code": "691"
+    },
+    "FO": {
+        "code": "FO",
+        "name": "Faroe IS",
+        "iso_code": "FRO",
+        "state": false,
+        "zip": true,
+        "dialing_code": "298"
+    },
+    "FR": {
+        "code": "FR",
+        "name": "France",
+        "iso_code": "FRA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "33"
+    },
+    "GA": {
+        "code": "GA",
+        "name": "Gabon",
+        "iso_code": "GAB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "241"
+    },
+    "GB": {
+        "code": "GB",
+        "name": "United Kingdom",
+        "iso_code": "GBR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "44"
+    },
+    "GD": {
+        "code": "GD",
+        "name": "Grenada",
+        "iso_code": "GRD",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "GE": {
+        "code": "GE",
+        "name": "Georgia",
+        "iso_code": "GEO",
+        "state": false,
+        "zip": true,
+        "dialing_code": "995"
+    },
+    "GF": {
+        "code": "GF",
+        "name": "French Guiana",
+        "iso_code": "GUF",
+        "state": false,
+        "zip": true,
+        "dialing_code": "594"
+    },
+    "GH": {
+        "code": "GH",
+        "name": "Ghana",
+        "iso_code": "GHA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "233"
+    },
+    "GI": {
+        "code": "GI",
+        "name": "Gibraltar",
+        "iso_code": "GIB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "350"
+    },
+    "GL": {
+        "code": "GL",
+        "name": "Greenland",
+        "iso_code": "GRL",
+        "state": false,
+        "zip": true,
+        "dialing_code": "299"
+    },
+    "GM": {
+        "code": "GM",
+        "name": "Gambia",
+        "iso_code": "GMB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "220"
+    },
+    "GN": {
+        "code": "GN",
+        "name": "Guinea",
+        "iso_code": "GIN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "224"
+    },
+    "GP": {
+        "code": "GP",
+        "name": "Guadeloupe",
+        "iso_code": "GLP",
+        "state": false,
+        "zip": true,
+        "dialing_code": "590"
+    },
+    "GQ": {
+        "code": "GQ",
+        "name": "Equatorial Guinea",
+        "iso_code": "GNQ",
+        "state": false,
+        "zip": false,
+        "dialing_code": "240"
+    },
+    "GR": {
+        "code": "GR",
+        "name": "Greece",
+        "iso_code": "GRC",
+        "state": true,
+        "zip": true,
+        "dialing_code": "30"
+    },
+    "GT": {
+        "code": "GT",
+        "name": "Guatemala",
+        "iso_code": "GTM",
+        "state": true,
+        "zip": true,
+        "dialing_code": "502"
+    },
+    "GU": {
+        "code": "GU",
+        "name": "Guam",
+        "iso_code": "GUM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "GW": {
+        "code": "GW",
+        "name": "Guinea Bissau",
+        "iso_code": "GNB",
+        "state": false,
+        "zip": true,
+        "dialing_code": "245"
+    },
+    "GY": {
+        "code": "GY",
+        "name": "Guyana",
+        "iso_code": "GUY",
+        "state": false,
+        "zip": false,
+        "dialing_code": "592"
+    },
+    "HK": {
+        "code": "HK",
+        "name": "Hong Kong",
+        "iso_code": "HKG",
+        "state": true,
+        "zip": false,
+        "dialing_code": "852"
+    },
+    "HM": {
+        "code": "HM",
+        "name": "Heard & McDonald Islands",
+        "iso_code": "HMD",
+        "state": false,
+        "zip": false,
+        "dialing_code": "0"
+    },
+    "HN": {
+        "code": "HN",
+        "name": "Honduras",
+        "iso_code": "HND",
+        "state": false,
+        "zip": true,
+        "dialing_code": "504"
+    },
+    "HR": {
+        "code": "HR",
+        "name": "Croatia",
+        "iso_code": "HRV",
+        "state": true,
+        "zip": true,
+        "dialing_code": "385"
+    },
+    "HT": {
+        "code": "HT",
+        "name": "Haiti",
+        "iso_code": "HTI",
+        "state": true,
+        "zip": true,
+        "dialing_code": "509"
+    },
+    "HU": {
+        "code": "HU",
+        "name": "Hungary",
+        "iso_code": "HUN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "36"
+    },
+    "ID": {
+        "code": "ID",
+        "name": "Indonesia",
+        "iso_code": "IDN",
+        "state": true,
+        "zip": false,
+        "dialing_code": "62"
+    },
+    "IE": {
+        "code": "IE",
+        "name": "Ireland",
+        "iso_code": "IRL",
+        "state": true,
+        "zip": false,
+        "dialing_code": "353"
+    },
+    "IL": {
+        "code": "IL",
+        "name": "Israel",
+        "iso_code": "ISR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "972"
+    },
+    "IM": {
+        "code": "IM",
+        "name": "Isle of Man",
+        "iso_code": "IMN",
+        "state": false,
+        "zip": true,
+        "dialing_code": "44"
+    },
+    "IN": {
+        "code": "IN",
+        "name": "India",
+        "iso_code": "IND",
+        "state": true,
+        "zip": true,
+        "dialing_code": "91"
+    },
+    "IO": {
+        "code": "IO",
+        "name": "British Indian Ocean Ter.",
+        "iso_code": "IOT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "246"
+    },
+    "IQ": {
+        "code": "IQ",
+        "name": "Iraq",
+        "iso_code": "IRQ",
+        "state": true,
+        "zip": false,
+        "dialing_code": "964"
+    },
+    "IR": {
+        "code": "IR",
+        "name": "Iran",
+        "iso_code": "IRN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "98"
+    },
+    "IS": {
+        "code": "IS",
+        "name": "Iceland",
+        "iso_code": "ISL",
+        "state": true,
+        "zip": true,
+        "dialing_code": "354"
+    },
+    "IT": {
+        "code": "IT",
+        "name": "Italy",
+        "iso_code": "ITA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "39"
+    },
+    "JE": {
+        "code": "JE",
+        "name": "Channel Islands",
+        "iso_code": "JEY",
+        "state": false,
+        "zip": true,
+        "dialing_code": "44"
+    },
+    "JM": {
+        "code": "JM",
+        "name": "Jamaica",
+        "iso_code": "JAM",
+        "state": true,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "JO": {
+        "code": "JO",
+        "name": "Jordan",
+        "iso_code": "JOR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "962"
+    },
+    "JP": {
+        "code": "JP",
+        "name": "Japan",
+        "iso_code": "JPN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "81"
+    },
+    "KE": {
+        "code": "KE",
+        "name": "Kenya",
+        "iso_code": "KEN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "254"
+    },
+    "KG": {
+        "code": "KG",
+        "name": "Kyrgyzstan",
+        "iso_code": "KGZ",
+        "state": false,
+        "zip": true,
+        "dialing_code": "996"
+    },
+    "KH": {
+        "code": "KH",
+        "name": "Cambodia",
+        "iso_code": "KHM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "855"
+    },
+    "KI": {
+        "code": "KI",
+        "name": "Kiribati",
+        "iso_code": "KIR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "686"
+    },
+    "KM": {
+        "code": "KM",
+        "name": "Comoros",
+        "iso_code": "COM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "269"
+    },
+    "KN": {
+        "code": "KN",
+        "name": "St Kitts and Nevis",
+        "iso_code": "KNA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "KP": {
+        "code": "KP",
+        "name": "Korea North",
+        "iso_code": "PRK",
+        "state": false,
+        "zip": false,
+        "dialing_code": "850"
+    },
+    "KR": {
+        "code": "KR",
+        "name": "Korea South",
+        "iso_code": "KOR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "82"
+    },
+    "KW": {
+        "code": "KW",
+        "name": "Kuwait",
+        "iso_code": "KWT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "965"
+    },
+    "KY": {
+        "code": "KY",
+        "name": "Cayman IS",
+        "iso_code": "CYM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "KZ": {
+        "code": "KZ",
+        "name": "Kazakhstan",
+        "iso_code": "KAZ",
+        "state": true,
+        "zip": true,
+        "dialing_code": "7"
+    },
+    "LA": {
+        "code": "LA",
+        "name": "Laos",
+        "iso_code": "LAO",
+        "state": false,
+        "zip": true,
+        "dialing_code": "856"
+    },
+    "LB": {
+        "code": "LB",
+        "name": "Lebanon",
+        "iso_code": "LBN",
+        "state": true,
+        "zip": false,
+        "dialing_code": "961"
+    },
+    "LC": {
+        "code": "LC",
+        "name": "St Lucia",
+        "iso_code": "LCA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "LI": {
+        "code": "LI",
+        "name": "Liechtenstein",
+        "iso_code": "LIE",
+        "state": true,
+        "zip": true,
+        "dialing_code": "423"
+    },
+    "LK": {
+        "code": "LK",
+        "name": "Sri Lanka",
+        "iso_code": "LKA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "94"
+    },
+    "LR": {
+        "code": "LR",
+        "name": "Liberia",
+        "iso_code": "LBR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "231"
+    },
+    "LS": {
+        "code": "LS",
+        "name": "Lesotho",
+        "iso_code": "LSO",
+        "state": false,
+        "zip": true,
+        "dialing_code": "266"
+    },
+    "LT": {
+        "code": "LT",
+        "name": "Lithuania",
+        "iso_code": "LTU",
+        "state": true,
+        "zip": true,
+        "dialing_code": "370"
+    },
+    "LU": {
+        "code": "LU",
+        "name": "Luxembourg",
+        "iso_code": "LUX",
+        "state": true,
+        "zip": true,
+        "dialing_code": "352"
+    },
+    "LV": {
+        "code": "LV",
+        "name": "Latvia",
+        "iso_code": "LVA",
+        "state": false,
+        "zip": true,
+        "dialing_code": "371"
+    },
+    "LY": {
+        "code": "LY",
+        "name": "Libya",
+        "iso_code": "LBY",
+        "state": false,
+        "zip": false,
+        "dialing_code": "218"
+    },
+    "MA": {
+        "code": "MA",
+        "name": "Morocco",
+        "iso_code": "MAR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "212"
+    },
+    "MC": {
+        "code": "MC",
+        "name": "Monaco",
+        "iso_code": "MCO",
+        "state": false,
+        "zip": true,
+        "dialing_code": "377"
+    },
+    "MD": {
+        "code": "MD",
+        "name": "Moldova",
+        "iso_code": "MDA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "373"
+    },
+    "ME": {
+        "code": "ME",
+        "name": "Montenegro",
+        "iso_code": "MNE",
+        "state": true,
+        "zip": false,
+        "dialing_code": "382"
+    },
+    "MG": {
+        "code": "MG",
+        "name": "Madagascar",
+        "iso_code": "MDG",
+        "state": true,
+        "zip": true,
+        "dialing_code": "261"
+    },
+    "MH": {
+        "code": "MH",
+        "name": "Marshall IS",
+        "iso_code": "MHL",
+        "state": true,
+        "zip": false,
+        "dialing_code": "692"
+    },
+    "MK": {
+        "code": "MK",
+        "name": "Macedonia",
+        "iso_code": "MKD",
+        "state": true,
+        "zip": true,
+        "dialing_code": "389"
+    },
+    "ML": {
+        "code": "ML",
+        "name": "Mali",
+        "iso_code": "MLI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "223"
+    },
+    "MM": {
+        "code": "MM",
+        "name": "Myanmar",
+        "iso_code": "MMR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "95"
+    },
+    "MN": {
+        "code": "MN",
+        "name": "Mongolia",
+        "iso_code": "MNG",
+        "state": false,
+        "zip": false,
+        "dialing_code": "976"
+    },
+    "MO": {
+        "code": "MO",
+        "name": "Macau",
+        "iso_code": "MAC",
+        "state": false,
+        "zip": false,
+        "dialing_code": "853"
+    },
+    "MP": {
+        "code": "MP",
+        "name": "Northern Mariana IS",
+        "iso_code": "MNP",
+        "state": true,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "MQ": {
+        "code": "MQ",
+        "name": "Martinique",
+        "iso_code": "MTQ",
+        "state": false,
+        "zip": false,
+        "dialing_code": "596"
+    },
+    "MR": {
+        "code": "MR",
+        "name": "Mauritania",
+        "iso_code": "MRT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "222"
+    },
+    "MS": {
+        "code": "MS",
+        "name": "Montserrat",
+        "iso_code": "MSR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "MT": {
+        "code": "MT",
+        "name": "Malta",
+        "iso_code": "MLT",
+        "state": true,
+        "zip": true,
+        "dialing_code": "356"
+    },
+    "MU": {
+        "code": "MU",
+        "name": "Mauritius",
+        "iso_code": "MUS",
+        "state": false,
+        "zip": false,
+        "dialing_code": "230"
+    },
+    "MV": {
+        "code": "MV",
+        "name": "Maldives",
+        "iso_code": "MDV",
+        "state": true,
+        "zip": true,
+        "dialing_code": "960"
+    },
+    "MW": {
+        "code": "MW",
+        "name": "Malawi",
+        "iso_code": "MWI",
+        "state": false,
+        "zip": false,
+        "dialing_code": "265"
+    },
+    "MX": {
+        "code": "MX",
+        "name": "Mexico",
+        "iso_code": "MEX",
+        "state": true,
+        "zip": true,
+        "dialing_code": "52"
+    },
+    "MY": {
+        "code": "MY",
+        "name": "Malaysia",
+        "iso_code": "MYS",
+        "state": true,
+        "zip": true,
+        "dialing_code": "60"
+    },
+    "MZ": {
+        "code": "MZ",
+        "name": "Mozambique",
+        "iso_code": "MOZ",
+        "state": true,
+        "zip": true,
+        "dialing_code": "258"
+    },
+    "NA": {
+        "code": "NA",
+        "name": "Namibia",
+        "iso_code": "NAM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "264"
+    },
+    "NC": {
+        "code": "NC",
+        "name": "New Caledonia",
+        "iso_code": "NCL",
+        "state": false,
+        "zip": false,
+        "dialing_code": "687"
+    },
+    "NE": {
+        "code": "NE",
+        "name": "Niger",
+        "iso_code": "NER",
+        "state": false,
+        "zip": false,
+        "dialing_code": "227"
+    },
+    "NF": {
+        "code": "NF",
+        "name": "Norfolk Island",
+        "iso_code": "NFK",
+        "state": false,
+        "zip": false,
+        "dialing_code": "672"
+    },
+    "NG": {
+        "code": "NG",
+        "name": "Nigeria",
+        "iso_code": "NGA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "234"
+    },
+    "NI": {
+        "code": "NI",
+        "name": "Nicaragua",
+        "iso_code": "NIC",
+        "state": true,
+        "zip": false,
+        "dialing_code": "505"
+    },
+    "NL": {
+        "code": "NL",
+        "name": "Netherlands",
+        "iso_code": "NLD",
+        "state": true,
+        "zip": true,
+        "dialing_code": "31"
+    },
+    "NO": {
+        "code": "NO",
+        "name": "Norway",
+        "iso_code": "NOR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "47"
+    },
+    "NP": {
+        "code": "NP",
+        "name": "Nepal",
+        "iso_code": "NPL",
+        "state": true,
+        "zip": true,
+        "dialing_code": "977"
+    },
+    "NR": {
+        "code": "NR",
+        "name": "Nauru",
+        "iso_code": "NRU",
+        "state": false,
+        "zip": false,
+        "dialing_code": "674"
+    },
+    "NU": {
+        "code": "NU",
+        "name": "Niue",
+        "iso_code": "NIU",
+        "state": false,
+        "zip": false,
+        "dialing_code": "683"
+    },
+    "NZ": {
+        "code": "NZ",
+        "name": "New Zealand",
+        "iso_code": "NZL",
+        "state": true,
+        "zip": true,
+        "dialing_code": "64"
+    },
+    "OM": {
+        "code": "OM",
+        "name": "Oman",
+        "iso_code": "OMN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "968"
+    },
+    "PA": {
+        "code": "PA",
+        "name": "Panama",
+        "iso_code": "PAN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "507"
+    },
+    "PE": {
+        "code": "PE",
+        "name": "Peru",
+        "iso_code": "PER",
+        "state": false,
+        "zip": false,
+        "dialing_code": "51"
+    },
+    "PF": {
+        "code": "PF",
+        "name": "French Polynesia",
+        "iso_code": "PYF",
+        "state": false,
+        "zip": false,
+        "dialing_code": "689"
+    },
+    "PG": {
+        "code": "PG",
+        "name": "Papua New Guinea",
+        "iso_code": "PNG",
+        "state": false,
+        "zip": false,
+        "dialing_code": "675"
+    },
+    "PH": {
+        "code": "PH",
+        "name": "Philippines",
+        "iso_code": "PHL",
+        "state": false,
+        "zip": true,
+        "dialing_code": "63"
+    },
+    "PK": {
+        "code": "PK",
+        "name": "Pakistan",
+        "iso_code": "PAK",
+        "state": true,
+        "zip": false,
+        "dialing_code": "92"
+    },
+    "PL": {
+        "code": "PL",
+        "name": "Poland",
+        "iso_code": "POL",
+        "state": true,
+        "zip": true,
+        "dialing_code": "48"
+    },
+    "PM": {
+        "code": "PM",
+        "name": "St Pierre and Miquelon",
+        "iso_code": "SPM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "508"
+    },
+    "PN": {
+        "code": "PN",
+        "name": "Pitcairn IS",
+        "iso_code": "PCN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "64"
+    },
+    "PR": {
+        "code": "PR",
+        "name": "Puerto Rico",
+        "iso_code": "PRI",
+        "state": false,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "PS": {
+        "code": "PS",
+        "name": "Palestine",
+        "iso_code": "PSE",
+        "state": false,
+        "zip": false,
+        "dialing_code": "970"
+    },
+    "PT": {
+        "code": "PT",
+        "name": "Portugal",
+        "iso_code": "PRT",
+        "state": true,
+        "zip": true,
+        "dialing_code": "351"
+    },
+    "PW": {
+        "code": "PW",
+        "name": "Palau",
+        "iso_code": "PLW",
+        "state": false,
+        "zip": false,
+        "dialing_code": "680"
+    },
+    "PY": {
+        "code": "PY",
+        "name": "Paraguay",
+        "iso_code": "PRY",
+        "state": false,
+        "zip": true,
+        "dialing_code": "595"
+    },
+    "QA": {
+        "code": "QA",
+        "name": "Qatar",
+        "iso_code": "QAT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "974"
+    },
+    "RE": {
+        "code": "RE",
+        "name": "Reunion IS",
+        "iso_code": "REU",
+        "state": false,
+        "zip": true,
+        "dialing_code": "262"
+    },
+    "RO": {
+        "code": "RO",
+        "name": "Romania",
+        "iso_code": "ROU",
+        "state": true,
+        "zip": true,
+        "dialing_code": "40"
+    },
+    "RS": {
+        "code": "RS",
+        "name": "Serbia",
+        "iso_code": "SRB",
+        "state": true,
+        "zip": true,
+        "dialing_code": "381"
+    },
+    "RU": {
+        "code": "RU",
+        "name": "Russia",
+        "iso_code": "RUS",
+        "state": true,
+        "zip": true,
+        "dialing_code": "7"
+    },
+    "RW": {
+        "code": "RW",
+        "name": "Rwanda",
+        "iso_code": "RWA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "250"
+    },
+    "RY": {
+        "code": "RY",
+        "name": "Canary IS",
+        "iso_code": "   ",
+        "state": true,
+        "zip": true,
+        "dialing_code": "34"
+    },
+    "SA": {
+        "code": "SA",
+        "name": "Saudi Arabia",
+        "iso_code": "SAU",
+        "state": false,
+        "zip": false,
+        "dialing_code": "966"
+    },
+    "SB": {
+        "code": "SB",
+        "name": "Solomon IS",
+        "iso_code": "SLB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "677"
+    },
+    "SC": {
+        "code": "SC",
+        "name": "Seychelles",
+        "iso_code": "SYC",
+        "state": false,
+        "zip": false,
+        "dialing_code": "248"
+    },
+    "SD": {
+        "code": "SD",
+        "name": "Sudan",
+        "iso_code": "SDN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "249"
+    },
+    "SE": {
+        "code": "SE",
+        "name": "Sweden",
+        "iso_code": "SWE",
+        "state": true,
+        "zip": true,
+        "dialing_code": "46"
+    },
+    "SG": {
+        "code": "SG",
+        "name": "Singapore",
+        "iso_code": "SGP",
+        "state": true,
+        "zip": true,
+        "dialing_code": "65"
+    },
+    "SI": {
+        "code": "SI",
+        "name": "Slovenia",
+        "iso_code": "SVN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "386"
+    },
+    "SJ": {
+        "code": "SJ",
+        "name": "Svalbard and Jan Mayen",
+        "iso_code": "SJM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "47"
+    },
+    "SK": {
+        "code": "SK",
+        "name": "Slovakia",
+        "iso_code": "SVK",
+        "state": true,
+        "zip": true,
+        "dialing_code": "421"
+    },
+    "SL": {
+        "code": "SL",
+        "name": "Sierra Leone",
+        "iso_code": "SLE",
+        "state": true,
+        "zip": false,
+        "dialing_code": "232"
+    },
+    "SM": {
+        "code": "SM",
+        "name": "San Marino",
+        "iso_code": "SMR",
+        "state": false,
+        "zip": true,
+        "dialing_code": "378"
+    },
+    "SN": {
+        "code": "SN",
+        "name": "Senegal",
+        "iso_code": "SEN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "221"
+    },
+    "SO": {
+        "code": "SO",
+        "name": "Somalia",
+        "iso_code": "SOM",
+        "state": true,
+        "zip": false,
+        "dialing_code": "252"
+    },
+    "SR": {
+        "code": "SR",
+        "name": "Suriname",
+        "iso_code": "SUR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "597"
+    },
+    "SS": {
+        "code": "SS",
+        "name": "South Sudan",
+        "iso_code": "SSD",
+        "state": false,
+        "zip": false,
+        "dialing_code": "211"
+    },
+    "ST": {
+        "code": "ST",
+        "name": "Sao Tome and Principe",
+        "iso_code": "STP",
+        "state": false,
+        "zip": false,
+        "dialing_code": "239"
+    },
+    "SV": {
+        "code": "SV",
+        "name": "El Salvador",
+        "iso_code": "SLV",
+        "state": false,
+        "zip": true,
+        "dialing_code": "503"
+    },
+    "SY": {
+        "code": "SY",
+        "name": "Syria",
+        "iso_code": "SYR",
+        "state": false,
+        "zip": false,
+        "dialing_code": "963"
+    },
+    "SZ": {
+        "code": "SZ",
+        "name": "Swaziland",
+        "iso_code": "SWZ",
+        "state": true,
+        "zip": false,
+        "dialing_code": "268"
+    },
+    "TC": {
+        "code": "TC",
+        "name": "Turks and Caicos IS",
+        "iso_code": "TCA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "TD": {
+        "code": "TD",
+        "name": "Chad",
+        "iso_code": "TCD",
+        "state": false,
+        "zip": false,
+        "dialing_code": "235"
+    },
+    "TG": {
+        "code": "TG",
+        "name": "Togo",
+        "iso_code": "TGO",
+        "state": false,
+        "zip": false,
+        "dialing_code": "228"
+    },
+    "TH": {
+        "code": "TH",
+        "name": "Thailand",
+        "iso_code": "THA",
+        "state": false,
+        "zip": true,
+        "dialing_code": "66"
+    },
+    "TJ": {
+        "code": "TJ",
+        "name": "Tajikistan",
+        "iso_code": "TJK",
+        "state": false,
+        "zip": true,
+        "dialing_code": "992"
+    },
+    "TK": {
+        "code": "TK",
+        "name": "Tokelau",
+        "iso_code": "TKL",
+        "state": false,
+        "zip": false,
+        "dialing_code": "690"
+    },
+    "TL": {
+        "code": "TL",
+        "name": "Timor-Lestev",
+        "iso_code": "TLS",
+        "state": false,
+        "zip": false,
+        "dialing_code": "670"
+    },
+    "TM": {
+        "code": "TM",
+        "name": "Turkmenistan",
+        "iso_code": "TKM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "993"
+    },
+    "TN": {
+        "code": "TN",
+        "name": "Tunisia",
+        "iso_code": "TUN",
+        "state": false,
+        "zip": false,
+        "dialing_code": "216"
+    },
+    "TO": {
+        "code": "TO",
+        "name": "Tonga",
+        "iso_code": "TON",
+        "state": false,
+        "zip": false,
+        "dialing_code": "676"
+    },
+    "TP": {
+        "code": "TP",
+        "name": "East Timor",
+        "iso_code": "   ",
+        "state": false,
+        "zip": false,
+        "dialing_code": "0"
+    },
+    "TR": {
+        "code": "TR",
+        "name": "Turkey",
+        "iso_code": "TUR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "90"
+    },
+    "TT": {
+        "code": "TT",
+        "name": "Trinidad and Tobago",
+        "iso_code": "TTO",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "TV": {
+        "code": "TV",
+        "name": "Tuvalu",
+        "iso_code": "TUV",
+        "state": false,
+        "zip": false,
+        "dialing_code": "688"
+    },
+    "TW": {
+        "code": "TW",
+        "name": "Taiwan",
+        "iso_code": "TWN",
+        "state": true,
+        "zip": true,
+        "dialing_code": "886"
+    },
+    "TZ": {
+        "code": "TZ",
+        "name": "Tanzania",
+        "iso_code": "TZA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "255"
+    },
+    "UA": {
+        "code": "UA",
+        "name": "Ukraine",
+        "iso_code": "UKR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "380"
+    },
+    "UG": {
+        "code": "UG",
+        "name": "Uganda",
+        "iso_code": "UGA",
+        "state": false,
+        "zip": false,
+        "dialing_code": "256"
+    },
+    "US": {
+        "code": "US",
+        "name": "United States",
+        "iso_code": "USA",
+        "state": true,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "UY": {
+        "code": "UY",
+        "name": "Uruguay",
+        "iso_code": "URY",
+        "state": false,
+        "zip": true,
+        "dialing_code": "598"
+    },
+    "UZ": {
+        "code": "UZ",
+        "name": "Uzbekistan",
+        "iso_code": "UZB",
+        "state": false,
+        "zip": true,
+        "dialing_code": "998"
+    },
+    "VA": {
+        "code": "VA",
+        "name": "Vatican City",
+        "iso_code": "VAT",
+        "state": false,
+        "zip": true,
+        "dialing_code": "39"
+    },
+    "VC": {
+        "code": "VC",
+        "name": "St Vincent and Grenadine",
+        "iso_code": "VCT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "VE": {
+        "code": "VE",
+        "name": "Venezuela",
+        "iso_code": "VEN",
+        "state": false,
+        "zip": true,
+        "dialing_code": "58"
+    },
+    "VG": {
+        "code": "VG",
+        "name": "Virgin IS - British",
+        "iso_code": "VGB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "1"
+    },
+    "VI": {
+        "code": "VI",
+        "name": "Virgin Islands - US",
+        "iso_code": "VIR",
+        "state": true,
+        "zip": true,
+        "dialing_code": "1"
+    },
+    "VN": {
+        "code": "VN",
+        "name": "Vietnam",
+        "iso_code": "VNM",
+        "state": false,
+        "zip": true,
+        "dialing_code": "84"
+    },
+    "VU": {
+        "code": "VU",
+        "name": "Vanuatu",
+        "iso_code": "VUT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "678"
+    },
+    "WF": {
+        "code": "WF",
+        "name": "Wallis and Futuna IS",
+        "iso_code": "WLF",
+        "state": false,
+        "zip": false,
+        "dialing_code": "681"
+    },
+    "WS": {
+        "code": "WS",
+        "name": "Samoa",
+        "iso_code": "WSM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "685"
+    },
+    "XZ": {
+        "code": "XZ",
+        "name": "Kosovo",
+        "iso_code": "   ",
+        "state": true,
+        "zip": false,
+        "dialing_code": "381"
+    },
+    "YE": {
+        "code": "YE",
+        "name": "Yemen",
+        "iso_code": "YEM",
+        "state": false,
+        "zip": false,
+        "dialing_code": "967"
+    },
+    "YT": {
+        "code": "YT",
+        "name": "Mayotte",
+        "iso_code": "MYT",
+        "state": false,
+        "zip": false,
+        "dialing_code": "262"
+    },
+    "ZA": {
+        "code": "ZA",
+        "name": "South Africa",
+        "iso_code": "ZAF",
+        "state": true,
+        "zip": true,
+        "dialing_code": "27"
+    },
+    "ZM": {
+        "code": "ZM",
+        "name": "Zambia",
+        "iso_code": "ZMB",
+        "state": false,
+        "zip": false,
+        "dialing_code": "260"
+    },
+    "ZW": {
+        "code": "ZW",
+        "name": "Zimbabwe",
+        "iso_code": "ZWE",
+        "state": false,
+        "zip": false,
+        "dialing_code": "263"
+    }
+}
