@@ -1,0 +1,407 @@
+[
+    {
+        "country_id": 1,
+        "name": "\u0130STANBUL",
+        "code": "34"
+    },
+    {
+        "country_id": 1,
+        "name": "ANKARA",
+        "code": "6"
+    },
+    {
+        "country_id": 1,
+        "name": "\u0130ZM\u0130R",
+        "code": "35"
+    },
+    {
+        "country_id": 1,
+        "name": "BURSA",
+        "code": "16"
+    },
+    {
+        "country_id": 1,
+        "name": "ADANA",
+        "code": "1"
+    },
+    {
+        "country_id": 1,
+        "name": "ADIYAMAN",
+        "code": "2"
+    },
+    {
+        "country_id": 1,
+        "name": "AFYONKARAH\u0130SAR",
+        "code": "3"
+    },
+    {
+        "country_id": 1,
+        "name": "A\u011eRI",
+        "code": "4"
+    },
+    {
+        "country_id": 1,
+        "name": "AKSARAY",
+        "code": "68"
+    },
+    {
+        "country_id": 1,
+        "name": "AMASYA",
+        "code": "5"
+    },
+    {
+        "country_id": 1,
+        "name": "ANTALYA",
+        "code": "7"
+    },
+    {
+        "country_id": 1,
+        "name": "ARDAHAN",
+        "code": "75"
+    },
+    {
+        "country_id": 1,
+        "name": "ARTV\u0130N",
+        "code": "8"
+    },
+    {
+        "country_id": 1,
+        "name": "AYDIN",
+        "code": "9"
+    },
+    {
+        "country_id": 1,
+        "name": "BALIKES\u0130R",
+        "code": "10"
+    },
+    {
+        "country_id": 1,
+        "name": "BARTIN",
+        "code": "74"
+    },
+    {
+        "country_id": 1,
+        "name": "BATMAN",
+        "code": "72"
+    },
+    {
+        "country_id": 1,
+        "name": "BAYBURT",
+        "code": "69"
+    },
+    {
+        "country_id": 1,
+        "name": "B\u0130LEC\u0130K",
+        "code": "11"
+    },
+    {
+        "country_id": 1,
+        "name": "B\u0130NG\u00d6L",
+        "code": "12"
+    },
+    {
+        "country_id": 1,
+        "name": "B\u0130TL\u0130S",
+        "code": "13"
+    },
+    {
+        "country_id": 1,
+        "name": "BOLU",
+        "code": "14"
+    },
+    {
+        "country_id": 1,
+        "name": "BURDUR",
+        "code": "15"
+    },
+    {
+        "country_id": 1,
+        "name": "\u00c7ANAKKALE",
+        "code": "17"
+    },
+    {
+        "country_id": 1,
+        "name": "\u00c7ANKIRI",
+        "code": "18"
+    },
+    {
+        "country_id": 1,
+        "name": "\u00c7ORUM",
+        "code": "19"
+    },
+    {
+        "country_id": 1,
+        "name": "DEN\u0130ZL\u0130",
+        "code": "20"
+    },
+    {
+        "country_id": 1,
+        "name": "D\u0130YARBAKIR",
+        "code": "21"
+    },
+    {
+        "country_id": 1,
+        "name": "KOCAEL\u0130",
+        "code": "41"
+    },
+    {
+        "country_id": 1,
+        "name": "KONYA",
+        "code": "42"
+    },
+    {
+        "country_id": 1,
+        "name": "K\u00dcTAHYA",
+        "code": "43"
+    },
+    {
+        "country_id": 1,
+        "name": "MALATYA",
+        "code": "44"
+    },
+    {
+        "country_id": 1,
+        "name": "MAN\u0130SA",
+        "code": "45"
+    },
+    {
+        "country_id": 1,
+        "name": "MARD\u0130N",
+        "code": "47"
+    },
+    {
+        "country_id": 1,
+        "name": "MERS\u0130N",
+        "code": "33"
+    },
+    {
+        "country_id": 1,
+        "name": "MU\u011eLA",
+        "code": "48"
+    },
+    {
+        "country_id": 1,
+        "name": "MU\u015e",
+        "code": "49"
+    },
+    {
+        "country_id": 1,
+        "name": "NEV\u015eEH\u0130R",
+        "code": "50"
+    },
+    {
+        "country_id": 1,
+        "name": "N\u0130\u011eDE",
+        "code": "51"
+    },
+    {
+        "country_id": 1,
+        "name": "ORDU",
+        "code": "52"
+    },
+    {
+        "country_id": 1,
+        "name": "OSMAN\u0130YE",
+        "code": "80"
+    },
+    {
+        "country_id": 1,
+        "name": "R\u0130ZE",
+        "code": "53"
+    },
+    {
+        "country_id": 1,
+        "name": "SAKARYA",
+        "code": "54"
+    },
+    {
+        "country_id": 1,
+        "name": "SAMSUN",
+        "code": "55"
+    },
+    {
+        "country_id": 1,
+        "name": "S\u0130\u0130RT",
+        "code": "56"
+    },
+    {
+        "country_id": 1,
+        "name": "S\u0130NOP",
+        "code": "57"
+    },
+    {
+        "country_id": 1,
+        "name": "\u015eIRNAK",
+        "code": "73"
+    },
+    {
+        "country_id": 1,
+        "name": "S\u0130VAS",
+        "code": "58"
+    },
+    {
+        "country_id": 1,
+        "name": "TEK\u0130RDA\u011e",
+        "code": "59"
+    },
+    {
+        "country_id": 1,
+        "name": "TOKAT",
+        "code": "60"
+    },
+    {
+        "country_id": 1,
+        "name": "TRABZON",
+        "code": "61"
+    },
+    {
+        "country_id": 1,
+        "name": "TUNCEL\u0130",
+        "code": "62"
+    },
+    {
+        "country_id": 1,
+        "name": "\u015eANLIURFA",
+        "code": "63"
+    },
+    {
+        "country_id": 1,
+        "name": "U\u015eAK",
+        "code": "64"
+    },
+    {
+        "country_id": 1,
+        "name": "VAN",
+        "code": "65"
+    },
+    {
+        "country_id": 1,
+        "name": "YALOVA",
+        "code": "77"
+    },
+    {
+        "country_id": 1,
+        "name": "YOZGAT",
+        "code": "66"
+    },
+    {
+        "country_id": 1,
+        "name": "ZONGULDAK",
+        "code": "67"
+    },
+    {
+        "country_id": 1,
+        "name": "D\u00dcZCE",
+        "code": "81"
+    },
+    {
+        "country_id": 1,
+        "name": "ED\u0130RNE",
+        "code": "22"
+    },
+    {
+        "country_id": 1,
+        "name": "ELAZI\u011e",
+        "code": "23"
+    },
+    {
+        "country_id": 1,
+        "name": "ERZ\u0130NCAN",
+        "code": "24"
+    },
+    {
+        "country_id": 1,
+        "name": "ERZURUM",
+        "code": "25"
+    },
+    {
+        "country_id": 1,
+        "name": "ESK\u0130\u015eEH\u0130R",
+        "code": "26"
+    },
+    {
+        "country_id": 1,
+        "name": "GAZ\u0130ANTEP",
+        "code": "27"
+    },
+    {
+        "country_id": 1,
+        "name": "G\u0130RESUN",
+        "code": "28"
+    },
+    {
+        "country_id": 1,
+        "name": "G\u00dcM\u00dc\u015eHANE",
+        "code": "29"
+    },
+    {
+        "country_id": 1,
+        "name": "HAKKAR\u0130",
+        "code": "30"
+    },
+    {
+        "country_id": 1,
+        "name": "HATAY",
+        "code": "31"
+    },
+    {
+        "country_id": 1,
+        "name": "I\u011eDIR",
+        "code": "76"
+    },
+    {
+        "country_id": 1,
+        "name": "ISPARTA",
+        "code": "32"
+    },
+    {
+        "country_id": 1,
+        "name": "KAHRAMANMARA\u015e",
+        "code": "46"
+    },
+    {
+        "country_id": 1,
+        "name": "KARAB\u00dcK",
+        "code": "78"
+    },
+    {
+        "country_id": 1,
+        "name": "KARAMAN",
+        "code": "70"
+    },
+    {
+        "country_id": 1,
+        "name": "KARS",
+        "code": "36"
+    },
+    {
+        "country_id": 1,
+        "name": "KASTAMONU",
+        "code": "37"
+    },
+    {
+        "country_id": 1,
+        "name": "KAYSER\u0130",
+        "code": "38"
+    },
+    {
+        "country_id": 1,
+        "name": "K\u0130L\u0130S",
+        "code": "79"
+    },
+    {
+        "country_id": 1,
+        "name": "KIRIKKALE",
+        "code": "71"
+    },
+    {
+        "country_id": 1,
+        "name": "KIRKLAREL\u0130",
+        "code": "39"
+    },
+    {
+        "country_id": 1,
+        "name": "KIR\u015eEH\u0130R",
+        "code": "40"
+    }
+]
