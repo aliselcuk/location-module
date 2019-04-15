@@ -4,5 +4,4 @@ use SuperV\Platform\Domains\Addon\AddonServiceProvider;
 
 class LocationModuleServiceProvider extends AddonServiceProvider
 {
-
 }

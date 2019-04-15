@@ -62,9 +62,11 @@ class ImportCountryData
     {
         $provinces = $this->getJsonData('data/tr/provinces.json');
         $districts = $this->getJsonData('data/tr/districts.json');
-        $neighbourhoods = $this->getJsonData('data/tr/neighbourhoods.json');
+//        $neighbourhoods = $this->getJsonData('data/tr/neighbourhoods.json');
 
         foreach ($provinces as $provinceData) {
+            if (!in_array($provinceData['code'], [1,6,34,35])) continue;
+
             $province = sv_resource('location_provinces')->create($provinceData);
 
             foreach ($districts[$province->code] as $districtData) {
