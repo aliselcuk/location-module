@@ -1,7 +1,7 @@
 [
     {
         "country_id": 1,
-        "name": "\u0130STANBUL",
+        "name": "İSTANBUL",
         "code": "34"
     },
     {
@@ -11,7 +11,7 @@
     },
     {
         "country_id": 1,
-        "name": "\u0130ZM\u0130R",
+        "name": "İZMİR",
         "code": "35"
     },
     {
@@ -31,12 +31,12 @@
     },
     {
         "country_id": 1,
-        "name": "AFYONKARAH\u0130SAR",
+        "name": "AFYONKARAHİSAR",
         "code": "3"
     },
     {
         "country_id": 1,
-        "name": "A\u011eRI",
+        "name": "AĞRI",
         "code": "4"
     },
     {
@@ -61,7 +61,7 @@
     },
     {
         "country_id": 1,
-        "name": "ARTV\u0130N",
+        "name": "ARTVİN",
         "code": "8"
     },
     {
@@ -71,7 +71,7 @@
     },
     {
         "country_id": 1,
-        "name": "BALIKES\u0130R",
+        "name": "BALIKESİR",
         "code": "10"
     },
     {
@@ -91,17 +91,17 @@
     },
     {
         "country_id": 1,
-        "name": "B\u0130LEC\u0130K",
+        "name": "BİLECİK",
         "code": "11"
     },
     {
         "country_id": 1,
-        "name": "B\u0130NG\u00d6L",
+        "name": "BİNGÖL",
         "code": "12"
     },
     {
         "country_id": 1,
-        "name": "B\u0130TL\u0130S",
+        "name": "BİTLİS",
         "code": "13"
     },
     {
@@ -116,32 +116,32 @@
     },
     {
         "country_id": 1,
-        "name": "\u00c7ANAKKALE",
+        "name": "ÇANAKKALE",
         "code": "17"
     },
     {
         "country_id": 1,
-        "name": "\u00c7ANKIRI",
+        "name": "ÇANKIRI",
         "code": "18"
     },
     {
         "country_id": 1,
-        "name": "\u00c7ORUM",
+        "name": "ÇORUM",
         "code": "19"
     },
     {
         "country_id": 1,
-        "name": "DEN\u0130ZL\u0130",
+        "name": "DENİZLİ",
         "code": "20"
     },
     {
         "country_id": 1,
-        "name": "D\u0130YARBAKIR",
+        "name": "DİYARBAKIR",
         "code": "21"
     },
     {
         "country_id": 1,
-        "name": "KOCAEL\u0130",
+        "name": "KOCAELİ",
         "code": "41"
     },
     {
@@ -151,7 +151,7 @@
     },
     {
         "country_id": 1,
-        "name": "K\u00dcTAHYA",
+        "name": "KÜTAHYA",
         "code": "43"
     },
     {
@@ -161,37 +161,37 @@
     },
     {
         "country_id": 1,
-        "name": "MAN\u0130SA",
+        "name": "MANİSA",
         "code": "45"
     },
     {
         "country_id": 1,
-        "name": "MARD\u0130N",
+        "name": "MARDİN",
         "code": "47"
     },
     {
         "country_id": 1,
-        "name": "MERS\u0130N",
+        "name": "MERSİN",
         "code": "33"
     },
     {
         "country_id": 1,
-        "name": "MU\u011eLA",
+        "name": "MUĞLA",
         "code": "48"
     },
     {
         "country_id": 1,
-        "name": "MU\u015e",
+        "name": "MUŞ",
         "code": "49"
     },
     {
         "country_id": 1,
-        "name": "NEV\u015eEH\u0130R",
+        "name": "NEVŞEHİR",
         "code": "50"
     },
     {
         "country_id": 1,
-        "name": "N\u0130\u011eDE",
+        "name": "NİĞDE",
         "code": "51"
     },
     {
@@ -201,12 +201,12 @@
     },
     {
         "country_id": 1,
-        "name": "OSMAN\u0130YE",
+        "name": "OSMANİYE",
         "code": "80"
     },
     {
         "country_id": 1,
-        "name": "R\u0130ZE",
+        "name": "RİZE",
         "code": "53"
     },
     {
@@ -221,27 +221,27 @@
     },
     {
         "country_id": 1,
-        "name": "S\u0130\u0130RT",
+        "name": "SİİRT",
         "code": "56"
     },
     {
         "country_id": 1,
-        "name": "S\u0130NOP",
+        "name": "SİNOP",
         "code": "57"
     },
     {
         "country_id": 1,
-        "name": "\u015eIRNAK",
+        "name": "ŞIRNAK",
         "code": "73"
     },
     {
         "country_id": 1,
-        "name": "S\u0130VAS",
+        "name": "SİVAS",
         "code": "58"
     },
     {
         "country_id": 1,
-        "name": "TEK\u0130RDA\u011e",
+        "name": "TEKİRDAĞ",
         "code": "59"
     },
     {
@@ -256,17 +256,17 @@
     },
     {
         "country_id": 1,
-        "name": "TUNCEL\u0130",
+        "name": "TUNCELİ",
         "code": "62"
     },
     {
         "country_id": 1,
-        "name": "\u015eANLIURFA",
+        "name": "ŞANLIURFA",
         "code": "63"
     },
     {
         "country_id": 1,
-        "name": "U\u015eAK",
+        "name": "UŞAK",
         "code": "64"
     },
     {
@@ -291,22 +291,22 @@
     },
     {
         "country_id": 1,
-        "name": "D\u00dcZCE",
+        "name": "DÜZCE",
         "code": "81"
     },
     {
         "country_id": 1,
-        "name": "ED\u0130RNE",
+        "name": "EDİRNE",
         "code": "22"
     },
     {
         "country_id": 1,
-        "name": "ELAZI\u011e",
+        "name": "ELAZIĞ",
         "code": "23"
     },
     {
         "country_id": 1,
-        "name": "ERZ\u0130NCAN",
+        "name": "ERZİNCAN",
         "code": "24"
     },
     {
@@ -316,27 +316,27 @@
     },
     {
         "country_id": 1,
-        "name": "ESK\u0130\u015eEH\u0130R",
+        "name": "ESKİŞEHİR",
         "code": "26"
     },
     {
         "country_id": 1,
-        "name": "GAZ\u0130ANTEP",
+        "name": "GAZİANTEP",
         "code": "27"
     },
     {
         "country_id": 1,
-        "name": "G\u0130RESUN",
+        "name": "GİRESUN",
         "code": "28"
     },
     {
         "country_id": 1,
-        "name": "G\u00dcM\u00dc\u015eHANE",
+        "name": "GÜMÜŞHANE",
         "code": "29"
     },
     {
         "country_id": 1,
-        "name": "HAKKAR\u0130",
+        "name": "HAKKARİ",
         "code": "30"
     },
     {
@@ -346,7 +346,7 @@
     },
     {
         "country_id": 1,
-        "name": "I\u011eDIR",
+        "name": "IĞDIR",
         "code": "76"
     },
     {
@@ -356,12 +356,12 @@
     },
     {
         "country_id": 1,
-        "name": "KAHRAMANMARA\u015e",
+        "name": "KAHRAMANMARAŞ",
         "code": "46"
     },
     {
         "country_id": 1,
-        "name": "KARAB\u00dcK",
+        "name": "KARABÜK",
         "code": "78"
     },
     {
@@ -381,12 +381,12 @@
     },
     {
         "country_id": 1,
-        "name": "KAYSER\u0130",
+        "name": "KAYSERİ",
         "code": "38"
     },
     {
         "country_id": 1,
-        "name": "K\u0130L\u0130S",
+        "name": "KİLİS",
         "code": "79"
     },
     {
@@ -396,12 +396,12 @@
     },
     {
         "country_id": 1,
-        "name": "KIRKLAREL\u0130",
+        "name": "KIRKLARELİ",
         "code": "39"
     },
     {
         "country_id": 1,
-        "name": "KIR\u015eEH\u0130R",
+        "name": "KIRŞEHİR",
         "code": "40"
     }
 ]

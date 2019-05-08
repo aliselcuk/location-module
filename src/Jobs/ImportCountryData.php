@@ -2,6 +2,7 @@
 
 namespace SuperV\Modules\Location\Jobs;
 
+use const MB_CASE_LOWER;
 use SuperV\Modules\Location\Domains\Country\Country;
 use SuperV\Modules\Location\LocationModule;
 use SuperV\Platform\Domains\Addon\AddonCollection;
@@ -65,7 +66,9 @@ class ImportCountryData
 //        $neighbourhoods = $this->getJsonData('data/tr/neighbourhoods.json');
 
         foreach ($provinces as $provinceData) {
-            if (!in_array($provinceData['code'], [1,6,34,35])) continue;
+//            if (!in_array($provinceData['code'], [1,6,34,35])) continue;
+
+            $provinceData['name'] = $this->ucwords($provinceData['name']);
 
             $province = sv_resource('location_provinces')->create($provinceData);
 
@@ -85,5 +88,16 @@ class ImportCountryData
             'has_zip'      => $this->data['zip'] ?? false,
             'dialing_code' => $this->data['dialing_code'],
         ]);
+    }
+
+    protected function ucwords($title): string
+    {
+//        return $title;
+//        return ucwords(mb_strtolower($title));
+//        $title = html_entity_decode(preg_replace("/U\+([0-9A-F]{4})/", "&#x\\1;", str_replace("\u", "U+", $title)), ENT_NOQUOTES, 'UTF-8');
+
+        $title = mb_convert_case($title, MB_CASE_TITLE, 'UTF-8');
+        $title = str_replace(["i̇"], ["i"], $title);
+        return $title;
     }
 }
