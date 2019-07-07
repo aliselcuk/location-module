@@ -65,7 +65,7 @@ class ImportCountryData
 //        $neighbourhoods = $this->getJsonData('data/tr/neighbourhoods.json');
 
         foreach ($provinces as $provinceData) {
-            if (\Current::envIsLocal() && ! in_array($provinceData['code'], [1, 6, 34, 35])) {
+            if (!\Current::envIsProduction() && ! in_array($provinceData['code'], [1, 6, 34, 35])) {
                 continue;
             }
 
