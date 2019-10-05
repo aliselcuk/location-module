@@ -71,9 +71,10 @@ class ImportCountryData
 
             $provinceData['name'] = $this->ucwords($provinceData['name']);
 
-            $province = sv_resource('location_provinces')->create($provinceData);
+            $province = sv_resource('location.provinces')->create($provinceData);
 
             foreach ($districts[$province->code] as $districtData) {
+//                dd($province->getRelationKeys());
                 $district = $province->districts()->create($districtData);
             }
         }

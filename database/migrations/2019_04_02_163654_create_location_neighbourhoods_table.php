@@ -11,17 +11,18 @@ class CreateLocationNeighbourhoodsTable extends Migration
         $this->create('location_neighbourhoods',
             function (Blueprint $table, ResourceConfig $resource) {
                 $resource->label('Neighbourhoods');
+                $resource->setName('neighbourhoods');
                 $resource->resourceKey('neighbourhoods');
 
                 $table->increments('id');
-                $table->belongsTo('location_districts', 'district');
+                $table->belongsTo('location.districts', 'district');
                 $table->string('name')->entryLabel();
                 $table->string('code');
 
                 $table->createdBy()->updatedBy();
                 $table->restorable();
 
-                $table->hasMany('location_streets', 'streets');
+                $table->hasMany('location.streets', 'streets');
             });
     }
 

@@ -14,8 +14,6 @@ class LocationModule extends Addon
     {
 //        DB::unprepared(file_get_contents($this->realPath('resources/data/location.sql')));
 
-//        dd(ResourceModel::query()->where('handle', 'location_countries')->first());
-
         $this->dispatch(new ImportCountryData([
             'code'         => 'TR',
             'name'         => 'Turkey',

@@ -11,18 +11,19 @@ class CreateLocationDistrictsTable extends Migration
         $this->create('location_districts',
             function (Blueprint $table, ResourceConfig $resource) {
                 $resource->label('Districts');
+                $resource->setName('districts');
                 $resource->nav('acp.location');
                 $resource->resourceKey('district');
 
                 $table->increments('id');
-                $table->belongsTo('location_provinces', 'province');
+                $table->belongsTo('location.provinces', 'province');
                 $table->string('name')->entryLabel();
                 $table->string('code');
 
                 $table->createdBy()->updatedBy();
                 $table->restorable();
 
-                $table->hasMany('location_neighbourhoods', 'neighbourhoods');
+                $table->hasMany('location.neighbourhoods', 'neighbourhoods');
             });
     }
 

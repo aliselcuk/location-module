@@ -2,7 +2,7 @@
 
 namespace SuperV\Modules\Location\Domains\Country;
 
-use SuperV\Platform\Domains\Resource\Model\ResourceEntry;
+use SuperV\Platform\Domains\Resource\Database\Entry\ResourceEntry;
 
 class Country extends ResourceEntry
 {

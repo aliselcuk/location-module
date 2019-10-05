@@ -11,6 +11,7 @@ class CreateLocationCountriesTable extends Migration
         $this->create('location_countries',
             function (Blueprint $table, ResourceConfig $resource) {
                 $resource->label('Countries');
+                $resource->setName('countries');
                 $resource->nav('acp.location');
                 $resource->resourceKey('country');
 
@@ -25,7 +26,7 @@ class CreateLocationCountriesTable extends Migration
                 $table->createdBy()->updatedBy();
                 $table->restorable();
 
-                $table->hasMany('location_provinces', 'provinces');
+                $table->hasMany('location.provinces', 'provinces');
             });
     }
 

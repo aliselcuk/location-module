@@ -11,18 +11,19 @@ class CreateLocationProvincesTable extends Migration
         $this->create('location_provinces',
             function (Blueprint $table, ResourceConfig $resource) {
                 $resource->label('Provinces');
+                $resource->setName('provinces');
                 $resource->nav('acp.location');
                 $resource->resourceKey('province');
 
                 $table->increments('id');
-                $table->belongsTo('location_countries', 'country');
+                $table->belongsTo('location.countries', 'country');
                 $table->string('name')->entryLabel();
                 $table->string('code');
 
                 $table->createdBy()->updatedBy();
                 $table->restorable();
 
-                $table->hasMany('location_districts','districts');
+                $table->hasMany('location.districts','districts');
             });
     }
 
