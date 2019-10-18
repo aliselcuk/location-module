@@ -1,5 +1,11 @@
 {
     "Provinces": "Şehirler",
     "Countries": "Ülkeler",
-    "Districts": "İlçeler"
+    "Districts": "İlçeler",
+    "Cities": "Şehirler",
+    "Country": "Ülke",
+    "City": "Şehir",
+    "Province": "İl",
+    "City Code": "Plaka Kodu",
+    "District": "İlçe"
 }

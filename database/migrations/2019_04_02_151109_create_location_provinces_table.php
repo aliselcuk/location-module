@@ -17,8 +17,8 @@ class CreateLocationProvincesTable extends Migration
 
                 $table->increments('id');
                 $table->belongsTo('location.countries', 'country');
-                $table->string('name')->entryLabel();
-                $table->string('code');
+                $table->string('name')->entryLabel()->label('City');
+                $table->string('code')->label('City Code');
 
                 $table->createdBy()->updatedBy();
                 $table->restorable();

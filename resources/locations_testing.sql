@@ -1,0 +1,62 @@
+
+
+INSERT INTO `location_countries` VALUES (1, 'TR', 'Turkey', 'TUR', 0, 0, '90', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+
+
+
+
+INSERT INTO `location_districts` VALUES (1, 1, 'ADALAR', '1103', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (2, 1, 'ARNAVUTKÖY', '2048', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (3, 1, 'ATAŞEHİR', '2049', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (4, 1, 'AVCILAR', '2003', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (5, 1, 'BAĞCILAR', '2004', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (6, 1, 'BAHÇELİEVLER', '2005', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (7, 1, 'BAKIRKÖY', '1166', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (8, 1, 'BAŞAKŞEHİR', '2050', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (9, 1, 'BAYRAMPAŞA', '1886', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (10, 2, 'AKYURT', '1872', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (11, 2, 'ALTINDAĞ', '1130', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (12, 2, 'AYAŞ', '1157', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (13, 2, 'BALA', '1167', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (14, 2, 'BEYPAZARI', '1187', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (15, 2, 'ÇAMLIDERE', '1227', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (16, 2, 'ÇANKAYA', '1231', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (17, 2, 'ÇUBUK', '1260', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (18, 2, 'ELMADAĞ', '1302', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (19, 3, 'ALİAĞA', '1128', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (20, 3, 'BALÇOVA', '2006', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (21, 3, 'BAYINDIR', '1178', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (22, 3, 'BAYRAKLI', '2056', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (23, 3, 'BERGAMA', '1181', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (24, 3, 'BEYDAĞ', '1776', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (25, 3, 'BORNOVA', '1203', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (26, 3, 'BUCA', '1780', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (27, 3, 'ÇEŞME', '1251', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (28, 4, 'BÜYÜKORHAN', '1783', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (29, 4, 'GEMLİK', '1343', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (30, 4, 'GÜRSU', '1935', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (31, 4, 'HARMANCIK', '1799', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (32, 4, 'İNEGÖL', '1411', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (33, 4, 'İZNİK', '1420', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (34, 4, 'KARACABEY', '1434', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (35, 4, 'KELES', '1457', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (36, 4, 'KESTEL', '1960', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_districts` VALUES (37, 5, 'ALADAĞ', '1757', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (38, 5, 'CEYHAN', '1219', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (39, 5, 'ÇUKUROVA', '2033', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (40, 5, 'FEKE', '1329', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (41, 5, 'İMAMOĞLU', '1806', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (42, 5, 'KARAİSALI', '1437', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (43, 5, 'KARATAŞ', '1443', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (44, 5, 'KOZAN', '1486', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+INSERT INTO `location_districts` VALUES (45, 5, 'POZANTI', '1580', 0, '2019-10-10 21:53:25', 0, '2019-10-10 21:53:25', NULL, NULL);
+
+
+
+INSERT INTO `location_provinces` VALUES (1, 1, 'İstanbul', '34', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_provinces` VALUES (2, 1, 'Ankara', '6', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_provinces` VALUES (3, 1, 'İzmir', '35', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_provinces` VALUES (4, 1, 'Bursa', '16', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+INSERT INTO `location_provinces` VALUES (5, 1, 'Adana', '1', 0, '2019-10-10 21:53:24', 0, '2019-10-10 21:53:24', NULL, NULL);
+
+

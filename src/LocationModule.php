@@ -1,10 +1,9 @@
 <?php namespace SuperV\Modules\Location;
 
+use Current;
 use DB;
 use Illuminate\Foundation\Bus\DispatchesJobs;
-use SuperV\Modules\Location\Jobs\ImportCountryData;
 use SuperV\Platform\Domains\Addon\Addon;
-use SuperV\Platform\Domains\Resource\ResourceModel;
 
 class LocationModule extends Addon
 {
@@ -12,15 +11,18 @@ class LocationModule extends Addon
 
     public function onInstalled()
     {
+        if (Current::envIsTesting()) {
+            DB::unprepared(file_get_contents($this->realPath('resources/locations_testing.sql')));
+        }
 //        DB::unprepared(file_get_contents($this->realPath('resources/data/location.sql')));
 
-        $this->dispatch(new ImportCountryData([
-            'code'         => 'TR',
-            'name'         => 'Turkey',
-            'iso_code'     => 'TUR',
-            'has_state'    => false,
-            'has_zip'      => true,
-            'dialing_code' => 90,
-        ]));
+//        $this->dispatch(new ImportCountryData([
+//            'code'         => 'TR',
+//            'name'         => 'Turkey',
+//            'iso_code'     => 'TUR',
+//            'has_state'    => false,
+//            'has_zip'      => true,
+//            'dialing_code' => 90,
+//        ]));
     }
 }

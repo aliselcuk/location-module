@@ -1,8 +1,8 @@
 <?php
 
+use SuperV\Platform\Domains\Database\Migrations\Migration;
 use SuperV\Platform\Domains\Database\Schema\Blueprint;
 use SuperV\Platform\Domains\Resource\ResourceConfig;
-use SuperV\Platform\Domains\Database\Migrations\Migration;
 
 class CreateLocationDistrictsTable extends Migration
 {
@@ -17,7 +17,7 @@ class CreateLocationDistrictsTable extends Migration
 
                 $table->increments('id');
                 $table->belongsTo('location.provinces', 'province');
-                $table->string('name')->entryLabel();
+                $table->string('name')->entryLabel()->label('District');
                 $table->string('code');
 
                 $table->createdBy()->updatedBy();

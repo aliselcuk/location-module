@@ -35,6 +35,17 @@ class ImportCountryData
         $this->importProvinces();
     }
 
+    private function getTestProvinces()
+    {
+        return [
+            ['country_id' => 1, 'name' => 'İSTANBUL', 'code' => '34'],
+            ['country_id' => 1, 'name' => 'ANKARA', 'code' => '6'],
+            ['country_id' => 1, 'name' => 'İZMİR', 'code' => '35'],
+            ['country_id' => 1, 'name' => 'BURSA', 'code' => '16'],
+            ['country_id' => 1, 'name' => 'ADANA', 'code' => '1'],
+        ];
+    }
+
     protected function getJsonData(string $path)
     {
         $fullPath = base_path($this->module->resourcePath($path));
@@ -60,22 +71,27 @@ class ImportCountryData
 
     protected function importProvinces()
     {
-        $provinces = $this->getJsonData('data/tr/provinces.json');
+        $isTesting = true; // Current::envIsTesting();
+        if ($isTesting) {
+            $provinces = $this->getTestProvinces();
+        } else {
+            $provinces = $this->getJsonData('data/tr/provinces.json');
+        }
+
         $districts = $this->getJsonData('data/tr/districts.json');
-//        $neighbourhoods = $this->getJsonData('data/tr/neighbourhoods.json');
 
         foreach ($provinces as $provinceData) {
-            if (!\Current::envIsProduction() && ! in_array($provinceData['code'], [1, 6, 34, 35])) {
-                continue;
-            }
-
             $provinceData['name'] = $this->ucwords($provinceData['name']);
 
             $province = sv_resource('location.provinces')->create($provinceData);
 
+            $districtCount = 0;
             foreach ($districts[$province->code] as $districtData) {
-//                dd($province->getRelationKeys());
-                $district = $province->districts()->create($districtData);
+                $province->districts()->create($districtData);
+
+                if ($isTesting && $districtCount++ > 7) {
+                    break;
+                }
             }
         }
     }
